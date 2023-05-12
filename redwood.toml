@@ -1,0 +1,3 @@
+[api]
+  port = 3000
+  schemaPath = "./api/prisma/schema.prisma"
